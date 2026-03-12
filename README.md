@@ -136,7 +136,7 @@ Analytics
 # Other Misc Things we can include 
 
 ```
-5. Key Features
+ Key Features
 
 ✔ Eligibility screening
 ✔ OCR document parsing
@@ -150,18 +150,4 @@ These are explicitly required in the PRD.
 
 _(PRD)
 
-6. Documentation  Must Include
 
-Inside /docs:
-
-Problem statement
-
-System architecture
-
-Application flow
-
-Database schema
-
-API endpoints
-
-Security model
