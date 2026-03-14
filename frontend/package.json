@@ -1,7 +1,7 @@
 {
   "name": "onbordy-finflow-frontend",
   "version": "1.0.0",
-  "description": "Frontend for OnBordyFinFlow banking app",
+  "description": "Frontend for OnBoardyFinFlow",
   "private": true,
   "scripts": {
     "dev": "next dev",
